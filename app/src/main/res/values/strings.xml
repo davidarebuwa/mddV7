@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">MyRestaurants</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyRestaurants</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home_screen_view">MyRestaurants</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toolbar_title">MyRestaurants</string>
+
+    <string name="top_carousel_title">Recommended</string>
+    <string name="top_carousel_subtitle">Picked by us...for you</string>
+    <string name="bottom_carousel_title">Top Picks</string>
+    <string name="bottom_carousel_subtitle">Picked by you... for you</string>
+    <string name="meals_carousel_title">Your Meals</string>
+    <string name="meals_carousel_subtitle">Your food memoir all in one place</string>
+
+    <string name="google_maps_API_KEY">AIzaSyAyKJzTQWIMLxB3EZakjdIuWFAtBOKucpY</string>
+    <string name="google_places_API_key">AIzaSyCvqTr2ad1I29y-7u_hV-TGtlrMoLh_RX8</string>
+    <string name="find_restaurant_title">Find Restaurant</string>
+    <string name="visit_restaurant_title">Visited Restaurants</string>
+    <string name="view_bookings_title">Bookings</string>
+
+    <string name="meals_title">My Meals</string>
+    <string name="no_bookings_title">No Bookings </string>
+    <string name="upcoming_bookings_title">Upcoming </string>
+    <string name="past_bookings_title">Past</string>
+    <string name="app_label">MyRestaurant</string>
+    <string name="search_hint">Search Restaurants</string>
+
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+
+    <string name="booking_form_name">Enter Restaurant Name</string>
+    <string name="booking_form_date">Select Date</string>
+    <string name="booking_form_time">Select Time </string>
+
+    <string name="add_booking_button">Add to Bookings</string>
+
+    <string name="add_booking_map_button">Book Now</string>
+
+    <string name="rating_label">Rating: </string>
+    <string name="price_level_label">Price Level:</string>
+    <string name="more_info_label">More</string>
+
+    <string name="booking_form_phoneno">Enter Phone Number</string>
+    <string name="booking_form_email">Enter Email address</string>
+
+    <string name="res_form_hint">Enter Restaurant, Cafe, Bar</string>
+    <string name="meal_form_hint">Enter Meal name</string>
+
+    <string name="meal_form_description">Enter description of your meal: e.g Cuisine, Price, Review</string>
+    <string name="meal_form_rating">Enter your rating of meal (1-5)</string>
+    <string name="add_meal_button">Add Meal</string>
+
+
+    <string name="referer">http://com.aston.bosunard/bosunard.aston.com.cs3040cwk.models</string>
+    <string name="meal_list_header">Your Meals</string>
+
+
+</resources>
